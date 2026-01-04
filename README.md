@@ -2,6 +2,9 @@
 
 A Java-based Appium test automation project with a built-in **Runtime Element Inspector** that automatically displays element information when `NoSuchElementException` occurs - similar to Appium Inspector but directly in your terminal!
 
+<img width="824" height="1154" alt="image" src="https://github.com/user-attachments/assets/fb651a77-528b-44c0-a5d5-fcabedfe561a" />
+
+
 ## Features
 
 - **Automatic Element Inspector**: When an element is not found, the inspector automatically:
